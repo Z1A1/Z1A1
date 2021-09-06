@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevizacharias
 - 👀 I’m interested in machine learning and data analytics
-- 🌱 I’m currently learning  machine learning
+- 🌱 I’m currently learning  machine learning and chatbot
 - 💞️ I’m looking to 
 - 📫 How to reach me mail me keevzack@gmail.com
 
